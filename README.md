@@ -1,5 +1,5 @@
 # Biblioteca de Componentes - Landingpage
-Biblioteca de componentes ReactJS, desenvolvida utilizando a lib Docz
+Biblioteca de componentes ReactJS com Styled-Components, desenvolvida utilizando a lib Docz.
 
 
 ## Deploy
