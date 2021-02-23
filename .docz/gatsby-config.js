@@ -48,7 +48,7 @@ const config = {
         'open-browser': null,
         root:
           'D:\\full-stack-web-development\\agencia-audax\\landingpage-biblioteca-componentes\\.docz',
-        base: '/',
+        base: '/biblioteca-componentes-landingpage',
         source: './',
         'gatsby-root': null,
         files: '**/*.{md,markdown,mdx}',
